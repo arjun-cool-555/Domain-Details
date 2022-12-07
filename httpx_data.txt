@@ -1,2 +1,2 @@
-https://erp.bitmesra.ac.in [302] [196] [Object moved] [20.204.145.26] [bitmesra.trafficmanager.net] [991.1438ms] [HSTS]
-https://admission.bitmesra.ac.in [200] [240457] [:: BIRLA INSTITUTE OF TECHNOLOGY ::] [20.204.145.26] [bitmesra.trafficmanager.net] [1.5181631s] [Bootstrap,HSTS,IIS:10.0,Microsoft ASP.NET:4.0.30319,Windows Server]
+http://erp.bitmesra.ac.in [303] [150] [Document Moved] [20.204.145.26] [bitmesra.trafficmanager.net] [467.3268ms] [HSTS]
+http://admission.bitmesra.ac.in [303] [156] [Document Moved] [20.204.145.26] [bitmesra.trafficmanager.net] [4.6851874s] [HSTS,IIS:10.0,Windows Server]

@@ -65,7 +65,7 @@ def DetailsPage(request):
             sublist3r.main(domain, 40, 'subdomains.txt', ports= None, silent=False, verbose= False, enable_bruteforce= False, engines=None)
             subprocess.Popen(['httpx.exe','-list','subdomains.txt','-o','httpx_data.txt','-sc','-cl','-nc','-rt','-title','-ip','-cname','-cdn','-td'])
             subprocess.Popen(['naabu.exe','-list','subdomains.txt','-o','naabu_data.txt','-nc'])
-            xsubprocess.Popen(['gowitness.exe','file','--file','subdomains.txt','--screenshot-path','screenshots'])
+            subprocess.Popen(['gowitness.exe','file','--file','subdomains.txt','--screenshot-path','screenshots'])
 
             time.sleep(110)
 

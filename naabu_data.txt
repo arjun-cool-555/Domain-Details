@@ -1,4 +1,4 @@
-admission.bitmesra.ac.in:443
 admission.bitmesra.ac.in:80
-erp.bitmesra.ac.in:443
+admission.bitmesra.ac.in:443
 erp.bitmesra.ac.in:80
+erp.bitmesra.ac.in:443
