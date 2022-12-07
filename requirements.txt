@@ -1,2 +1,4 @@
 Django
 jsonfield
+dnspython
+requests
