@@ -9,6 +9,12 @@ git clone https://github.com/arjun-cool-555/Domain-Details.git
 
 ```
 
+--> Move into the directory where we have the project files : 
+```bash
+cd Domain-Details
+
+```
+
 --> Create a virtual environment :
 ```bash
 # Let's install virtualenv first
@@ -24,6 +30,12 @@ virtualenv envname
 envname\scripts\activate
 
 ```
+--> Install the requirements :
+```bash
+pip install -r requirements.txt
+
+```
+
 #
 
 ### Running the App
