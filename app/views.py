@@ -12,12 +12,7 @@ import subprocess,re,time,socket
 @login_required(login_url='login')
 def HomePage(request):
     if request.method=='POST':
-        
-        try:
-            print(socket.gethostbyname(request.POST.get('domain')))
             return redirect('details')
-        except:
-            return HttpResponse("Invalid Doamin!!!")
     return render (request,'home.html')
 
 def SignupPage(request):

@@ -1,2 +1,2 @@
-http://erp.bitmesra.ac.in [303] [150] [Document Moved] [20.204.145.26] [bitmesra.trafficmanager.net] [467.3268ms] [HSTS]
-http://admission.bitmesra.ac.in [303] [156] [Document Moved] [20.204.145.26] [bitmesra.trafficmanager.net] [4.6851874s] [HSTS,IIS:10.0,Windows Server]
+http://erp.bitmesra.ac.in [303] [150] [Document Moved] [20.204.145.26] [bitmesra.trafficmanager.net] [2.6636689s] [HSTS]
+http://admission.bitmesra.ac.in [303] [156] [Document Moved] [20.204.145.26] [bitmesra.trafficmanager.net] [2.6802612s] [HSTS,IIS:10.0,Windows Server]
